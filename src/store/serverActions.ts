@@ -109,16 +109,12 @@ const fallbackTrendingData = [
 ];
 
 function handleApiError(error: any, fallbackData: any) {
-  console.warn("API Error:", error?.response?.status, error?.message);
-  
   // If it's a rate limit error (429) or network error, return fallback data
   if (error?.response?.status === 429 || error?.code === "ECONNREFUSED" || error?.code === "ENOTFOUND") {
-    console.log("Using fallback data due to API rate limiting or network issues");
     return fallbackData;
   }
   
-  // For other errors, still return fallback data but log the error
-  console.error("API Error:", error);
+  // For other errors, still return fallback data
   return fallbackData;
 }
 

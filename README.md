@@ -1,112 +1,258 @@
 <div align="center">
- <h1> <img src="https://crypto-dashboard-vg.vercel.app/logo.png" width="80px"><br/>Crypto Dashboard</h1>
- <a href="https://www.buymeacoffee.com/VishwaGauravIn" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
- <img src="https://img.shields.io/npm/v/npm?style=normal"/>
- <img src="https://img.shields.io/website?style=normal&url=https%3A%2F%2Fcrypto-dashboard-vg.vercel.app/"/> 
- <img src="https://img.shields.io/badge/License-AGPL%20v3-brightgreen?style=normal"/>
- <img src="https://img.shields.io/github/languages/code-size/VishwaGauravIn/crypto-dashboard?logo=github&style=normal"/>
+  <img src="https://crypto-dashboard-vg.vercel.app/logo.png" width="80px" alt="Crypto Dashboard Logo"/>
+  <h1>🚀 Crypto Dashboard</h1>
+  <p><strong>Real-time cryptocurrency tracking dashboard with live market data, trending coins, and comprehensive analytics</strong></p>
+  
+  <div>
+    <a href="https://crypto-dashboard-main-ds3xgzlqi-harsh-yadavs-projects-0b2945f8.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-View%20Dashboard-blue?style=for-the-badge&logo=vercel" alt="Live Demo"/>
+    </a>
+    <a href="https://github.com/HarshYadv5554/crypto-dashboard" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+  </div>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Next.js-14.2.4-black?style=flat&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-18-blue?style=flat&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4.1-38B2AC?style=flat&logo=tailwind-css" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/PWA-Supported-green?style=flat&logo=pwa" alt="PWA"/>
 </div>
-<br/>
-
-![image](https://github.com/user-attachments/assets/32a14d0c-2c8a-4544-9435-863e32d636e0)
-
-# Features
-We've got everything that you need! A Crypto Dashboard to check all details about crypo coins, global trends, news, market outlook, and more.
-
-## ⚡ Market Outlook, Trending and Top Coins
-![image](https://github.com/user-attachments/assets/32a14d0c-2c8a-4544-9435-863e32d636e0)
 
 ---
 
-## 🔍 Instant Search Mode
-![image](https://github.com/user-attachments/assets/ec0e6292-c782-49e2-ad0e-53445d8d1d2d)
+## 📊 Live Demo
+
+**🌐 [View Live Dashboard](https://crypto-dashboard-main-ds3xgzlqi-harsh-yadavs-projects-0b2945f8.vercel.app)**
 
 ---
 
-## 🌐 Explore Crypto Coins
-![image](https://github.com/user-attachments/assets/c5e5e1b3-fbff-4f2a-90b1-5bc6f5105f7b)
+## ✨ Features
+
+### 🔥 **Real-time Market Data**
+- **Live cryptocurrency prices** from CoinGecko API
+- **Auto-refresh every 5 minutes** for up-to-date information
+- **Global market cap** and market trends
+- **24-hour price changes** with color-coded indicators
+
+### 📈 **Comprehensive Analytics**
+- **Top 10 cryptocurrencies** by market cap
+- **Trending coins** with price performance
+- **Detailed coin information** with charts and statistics
+- **Market outlook** with global crypto statistics
+
+### 🔍 **Advanced Search & Explore**
+- **Instant search** across all cryptocurrencies
+- **Explore page** with paginated coin listings
+- **Detailed coin pages** with comprehensive data
+- **Interactive charts** and price history
+
+### 🎨 **Modern UI/UX**
+- **Dark/Light theme** toggle
+- **Responsive design** for all devices
+- **PWA support** for mobile installation
+- **Smooth animations** and transitions
+
+### 🛡️ **Performance & Reliability**
+- **Rate limiting** to respect API limits
+- **Fallback data** for offline scenarios
+- **Optimized loading** with skeleton screens
+- **Error handling** with user-friendly messages
+
+### 🔐 **Authentication**
+- **Google OAuth** integration
+- **Secure session management**
+- **User preferences** storage
 
 ---
 
-## 🪙 Get in-dept details about coins 
-![image](https://github.com/user-attachments/assets/f08e6b86-ce82-468b-aaa8-e41c59b987db)
+## 🖼️ Screenshots
+
+### 📱 Dashboard Overview
+![Dashboard](https://github.com/user-attachments/assets/32a14d0c-2c8a-4544-9435-863e32d636e0)
+
+### 🔍 Search Functionality
+![Search](https://github.com/user-attachments/assets/ec0e6292-c782-49e2-ad0e-53445d8d1d2d)
+
+### 🌐 Explore Page
+![Explore](https://github.com/user-attachments/assets/c5e5e1b3-fbff-4f2a-90b1-5bc6f5105f7b)
+
+### 🪙 Coin Details
+![Coin Details](https://github.com/user-attachments/assets/f08e6b86-ce82-468b-aaa8-e41c59b987db)
+
+### 🌖 Theme Toggle
+![Theme](https://github.com/user-attachments/assets/83f22249-fa0f-4af1-b971-26c6596dcf16)
 
 ---
 
-## 🌖 Light/Dark Mode
-![image](https://github.com/user-attachments/assets/83f22249-fa0f-4af1-b971-26c6596dcf16)
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js 18+ 
+- npm, yarn, or pnpm
+- Git
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/HarshYadv5554/crypto-dashboard.git
+   cd crypto-dashboard
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Set up environment variables**
+   ```bash
+   cp .env.local.sample .env.local
+   ```
+   
+   Edit `.env.local` and add your API keys:
+   ```env
+   # CoinGecko API (Optional - for higher rate limits)
+   COINGECKO_API_KEY=your_coingecko_api_key
+   
+   # Google OAuth (Required for authentication)
+   GOOGLE_ID=your_google_client_id
+   GOOGLE_SECRET=your_google_client_secret
+   
+   # NextAuth Configuration
+   NEXTAUTH_URL=http://localhost:3000
+   NEXTAUTH_SECRET=your_nextauth_secret
+   ```
+
+4. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ---
 
-### 🔴 Realtime Data with periodic refresh
+## 🛠️ Tech Stack
 
-### 🪄 Magic Optimisation to reduce API calls
+- **Next.js 14** - React framework with App Router
+- **React 18** - UI library
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Utility-first CSS framework
+- **Zustand** - State management
+- **CoinGecko API** - Cryptocurrency data
+- **NextAuth.js** - Authentication
+- **Next-PWA** - Progressive Web App
+- **Vercel** - Deployment platform
 
-### 🗝️ Authentication support
+---
 
-### 📦 PWA Support for all devices
+## 🔧 Configuration
 
-.... and more
+### Environment Variables
 
-## Our Social Links
-[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=normal&logo=github&logoColor=white)](https://github.com/HarshYadv5554/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav5554/)
+| Variable | Description | Required |
+|----------|-------------|----------|
+| `COINGECKO_API_KEY` | CoinGecko API key for higher rate limits | No |
+| `GOOGLE_ID` | Google OAuth client ID | Yes |
+| `GOOGLE_SECRET` | Google OAuth client secret | Yes |
+| `NEXTAUTH_URL` | NextAuth.js URL | Yes |
+| `NEXTAUTH_SECRET` | NextAuth.js secret | Yes |
 
-## PageSpeed Insights
-![psi](https://github.com/HarshYadv5554/crypto-dashboard/assets/81325730/eb1e6103-9516-4909-bf79-c1a4af930bfb)
+### API Rate Limits
 
-## 🕜 Total time spend on this project: ~24hrs
+- **Free tier**: 50 calls/minute
+- **Pro tier**: 1000 calls/minute (with API key)
+- **Auto-refresh**: Every 5 minutes
+- **Fallback data**: Available when API is unavailable
 
-## Tech Used
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
-[![image](https://user-images.githubusercontent.com/81325730/209995550-63bdb319-f8fd-4383-bcfc-9021c4bc5642.png)](https://vercel.com/?utm_source=team_harshyadv5554&utm_campaign=oss)
+## 🚀 Deployment
 
-<details>
-<summary>
-  NextJS Guide
-</summary>
+### Deploy to Vercel
 
-## Getting Started
+1. **Push to GitHub**
+   ```bash
+   git add .
+   git commit -m "Initial commit"
+   git push origin main
+   ```
 
-First, run the development server:
+2. **Deploy with Vercel**
+   - Connect your GitHub repository to Vercel
+   - Add environment variables in Vercel dashboard
+   - Deploy automatically on every push
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+3. **Manual deployment**
+   ```bash
+   npm install -g vercel
+   vercel login
+   vercel --prod
+   ```
+
+### Environment Variables for Production
+
+Set these in your Vercel dashboard:
+```env
+NEXTAUTH_URL=https://your-domain.vercel.app
+NEXTAUTH_SECRET=your-production-secret
+GOOGLE_ID=your-google-client-id
+GOOGLE_SECRET=your-google-client-secret
+COINGECKO_API_KEY=your-coingecko-api-key
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📊 Performance
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### PageSpeed Insights
+![PageSpeed](https://github.com/HarshYadv5554/crypto-dashboard/assets/81325730/eb1e6103-9516-4909-bf79-c1a4af930bfb)
 
-## Learn More
+### Optimizations
+- **Image optimization** with Next.js
+- **Code splitting** and lazy loading
+- **PWA caching** strategies
+- **API rate limiting** and fallbacks
+- **Responsive design** for all devices
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. **Fork the repository**
+2. **Create a feature branch**
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+3. **Commit your changes**
+   ```bash
+   git commit -m 'Add amazing feature'
+   ```
+4. **Push to the branch**
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+5. **Open a Pull Request**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the **AGPL v3 License**.
 
-  
-</details>
+---
+
+## 📞 Support & Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshYadv5554/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav5554/)
+
+---
+
+<div align="center">
+  <p><strong>Built with ❤️ by Harsh Yadav</strong></p>
+</div>
