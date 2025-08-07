@@ -209,9 +209,6 @@ COINGECKO_API_KEY=your-coingecko-api-key
 
 ## 📊 Performance
 
-### PageSpeed Insights
-![PageSpeed](https://github.com/HarshYadv5554/crypto-dashboard/assets/81325730/eb1e6103-9516-4909-bf79-c1a4af930bfb)
-
 ### Optimizations
 - **Image optimization** with Next.js
 - **Code splitting** and lazy loading
