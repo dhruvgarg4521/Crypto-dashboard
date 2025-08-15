@@ -146,7 +146,7 @@ const HeaderLink = ({
       href={href}
       className={cn(
         "transition-colors hover:text-foreground",
-        active === false && "text-muted-foreground"
+        active === false && "text-muted-foreground",
       )}
     >
       {label || children}
@@ -172,7 +172,7 @@ const HeaderLinkOptions = [
     label: "Ethereum",
   },
   {
-    href: "https://github.com/HarshYadv5554/",
+    href: "https://github.com/dhruvgarg4521/",
     label: "GitHub",
   },
 ];
